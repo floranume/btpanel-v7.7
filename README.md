@@ -4,7 +4,7 @@ btpanel-v7.7.0-backup sao lưu bảng điều khiển phiên bản v7.7.0 gốc 
 **Lệnh cài đặt Centos/Ubuntu/Debian môi trường chạy độc lập (py3.7)）**
 
 ```Bash
-curl -sSO https://raw.githubusercontent.com/floranume/btpanel-v7.7.0/main/install/install_panel.sh && bash install_panel.sh
+curl -sSO https://raw.githubusercontent.com/floranume/btpanel-v7.7/main/install/install_panel.sh && bash install_panel.sh
 ```
 
 **Liên kết cài đặt thay thế cho máy chủ không có quyền truy cập vào GitHub. Các tập tin được lưu trữ công khai tại[d.moe.ms](http://d.moe.ms/?btpanel-v7.7.0)**
